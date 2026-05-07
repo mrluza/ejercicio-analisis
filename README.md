@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # euneiz-redes1 - Sniffer de Red
 
 Práctica de captura y análisis de tráfico de red en tiempo real para el Grado en Seguridad de EUNEIZ.
@@ -242,3 +243,6 @@ euneiz-redes1/
 3. Implementa `process_log_data()` filtrando la capa correspondiente.
 4. Registra el nuevo patrón en el diccionario `logs_patterns_types` de `src/MAIN.py`.
 5. Usa el nuevo nombre como valor de `log_type` en `conf.ini`.
+=======
+# Trabajo-redes
+>>>>>>> 5fa967cbf7bbe0e08e55d4427feb08cf6e45ff18
