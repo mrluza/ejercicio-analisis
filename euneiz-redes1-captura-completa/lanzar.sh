@@ -1,13 +1,12 @@
-#!/bin/bash
-# Script para lanzar el sniffer de red euneiz-redes1 con entorno virtual
+#Script para lanzar el sniffer de red euneiz-redes1 con entorno virtual
 
-# Limpiar variables de entorno que puedan causar conflictos
+#Limpiar variables de entorno que puedan causar conflictos
 unset VIRTUAL_ENV
 unset PYTHONPATH
 
 cd "$(dirname "$0")"
 
-# Verificar si uv está instalado, si no, avisar al usuario
+#Verificar si uv está instalado, si no, avisar al usuario
 if ! command -v uv &> /dev/null; then
     echo "❌ 'uv' no está instalado. Por favor, instálalo para gestionar el entorno (https://docs.astral.sh/uv/)"
     exit 1
