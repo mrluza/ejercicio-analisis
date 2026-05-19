@@ -1,0 +1,925 @@
+[
+    {
+        "query_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa",
+        "query_type": "255",
+        "response_name": "kali.local"
+    },
+    {
+        "query_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa",
+        "query_type": "255",
+        "response_name": "kali.local"
+    },
+    {
+        "query_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa",
+        "query_type": "255",
+        "response_name": "kali.local"
+    },
+    {
+        "query_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa",
+        "query_type": "255",
+        "response_name": "kali.local"
+    },
+    {
+        "query_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa",
+        "query_type": "255",
+        "response_name": "kali.local"
+    },
+    {
+        "query_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa",
+        "query_type": "255",
+        "response_name": "kali.local"
+    },
+    {
+        "response_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa"
+    },
+    {
+        "response_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "response_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa"
+    },
+    {
+        "response_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "response_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa"
+    },
+    {
+        "response_name": "4.f.d.9.4.0.e.f.f.f.7.2.0.0.a.0.2.0.0.0.7.3.0.f.c.5.2.6.7.1.d.f.ip6.arpa"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_ftp._tcp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12"
+    },
+    {
+        "query_name": "_services._dns-sd._udp.local",
+        "query_type": "12",
+        "response_name": "_services._dns-sd._udp.local"
+    },
+    {
+        "query_name": "16723.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16723.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16723.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16723.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16723.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16723.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "22772.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "22772.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "22772.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "22772.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "22772.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "22772.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16347.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16347.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16347.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16347.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16347.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "16347.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "5543.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "5543.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "5543.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "5543.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "5543.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "5543.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "7373.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "7373.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "7373.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "7373.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "7373.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "7373.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "28513.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "28513.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "28513.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "28513.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "28513.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "28513.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13186.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13186.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13186.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13186.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13186.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13186.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2569.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2569.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2569.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2569.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2569.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2569.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "23972.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "23972.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "23972.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "23972.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "23972.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "23972.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21024.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21024.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21024.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21024.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21024.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21024.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "8923.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "8923.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "8923.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "8923.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "8923.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "8923.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2380.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2380.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2380.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2380.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2380.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2380.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "31279.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "31279.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "31279.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "31279.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "31279.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "31279.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10221.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10221.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10221.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10221.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10221.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10221.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32006.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32006.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32006.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32006.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32006.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32006.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "18115.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "18115.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "18115.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "18115.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "18115.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "18115.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "27841.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "27841.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "27841.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "27841.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "27841.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "27841.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32343.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32343.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32343.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32343.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32343.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "32343.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "20123.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "20123.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "20123.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "20123.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "20123.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "20123.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "11124.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "11124.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "11124.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "11124.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "11124.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "11124.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2957.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2957.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2957.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2957.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2957.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "2957.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13555.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13555.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13555.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13555.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13555.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "13555.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10736.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10736.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10736.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10736.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10736.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10736.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21824.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21824.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21824.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21824.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21824.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "21824.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "14933.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "14933.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "14933.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "14933.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "14933.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "14933.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10715.local",
+        "query_type": "1"
+    },
+    {
+        "query_name": "10715.local",
+        "query_type": "1"
+    }
+]

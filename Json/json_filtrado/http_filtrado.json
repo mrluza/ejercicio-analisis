@@ -1,0 +1,992 @@
+[
+    {
+        "http_method": "GET",
+        "host": "detectportal.firefox.com",
+        "resource_uri": "/success.txt?ipv4"
+    },
+    {
+        "resource_uri": "/success.txt?ipv4",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m01.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m01.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m04.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m04.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m01.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m01.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m01.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m01.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "detectportal.firefox.com",
+        "resource_uri": "/success.txt?ipv4"
+    },
+    {
+        "resource_uri": "/success.txt?ipv4",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m04.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m04.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m01.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.globalsign.com",
+        "resource_uri": "/ca/gsatlasr3dvtlsca2026q2"
+    },
+    {
+        "resource_uri": "/ca/gsatlasr3dvtlsca2026q2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "detectportal.firefox.com",
+        "resource_uri": "/success.txt?ipv4"
+    },
+    {
+        "resource_uri": "/success.txt?ipv4",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.digicert.com",
+        "resource_uri": "/"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.digicert.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.r2m04.amazontrust.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "neverssl.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "neverssl.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "lushshinysilverlight.neverssl.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "lushshinysilverlight.neverssl.com",
+        "resource_uri": "/online"
+    },
+    {
+        "resource_uri": "/online",
+        "response_code": "301"
+    },
+    {
+        "http_method": "GET",
+        "host": "lushshinysilverlight.neverssl.com",
+        "resource_uri": "/online/"
+    },
+    {
+        "resource_uri": "/online/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "lushshinysilverlight.neverssl.com",
+        "resource_uri": "/favicon.ico"
+    },
+    {
+        "resource_uri": "/favicon.ico",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "http.badssl.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "http.badssl.com",
+        "resource_uri": "/style.css"
+    },
+    {
+        "resource_uri": "/style.css",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "http.badssl.com",
+        "resource_uri": "/icons/icon-red.png"
+    },
+    {
+        "http_method": "GET",
+        "host": "http.badssl.com",
+        "resource_uri": "/icons/favicon-red.ico"
+    },
+    {
+        "resource_uri": "/icons/icon-red.png",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/icons/favicon-red.ico",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "o.pki.goog",
+        "resource_uri": "/wr2"
+    },
+    {
+        "resource_uri": "/wr2",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "POST",
+        "host": "ocsp.sectigo.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/favicon.ico"
+    },
+    {
+        "resource_uri": "/favicon.ico",
+        "response_code": "404"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/index.html"
+    },
+    {
+        "resource_uri": "/index.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/index.html"
+    },
+    {
+        "resource_uri": "/index.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/testcat_ac.html"
+    },
+    {
+        "resource_uri": "/testcat_ac.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/testcat_ac.html"
+    },
+    {
+        "resource_uri": "/testcat_ac.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/index.html"
+    },
+    {
+        "resource_uri": "/index.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/testcat_al.html"
+    },
+    {
+        "resource_uri": "/testcat_al.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/index.html"
+    },
+    {
+        "resource_uri": "/index.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/testcat_bu.html"
+    },
+    {
+        "resource_uri": "/testcat_bu.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/testcat_bu.html"
+    },
+    {
+        "resource_uri": "/testcat_bu.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/index.html"
+    },
+    {
+        "resource_uri": "/index.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/testcat_cp.html"
+    },
+    {
+        "resource_uri": "/testcat_cp.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/testcat_cp.html"
+    },
+    {
+        "resource_uri": "/testcat_cp.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/index.html"
+    },
+    {
+        "resource_uri": "/index.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/testcat_be.html"
+    },
+    {
+        "resource_uri": "/testcat_be.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/testcat_ch.html"
+    },
+    {
+        "resource_uri": "/testcat_ch.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/index.html"
+    },
+    {
+        "resource_uri": "/index.html",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.testingmcafeesites.com",
+        "resource_uri": "/favicon.ico"
+    },
+    {
+        "resource_uri": "/favicon.ico",
+        "response_code": "404"
+    },
+    {
+        "http_method": "GET",
+        "host": "neverssl.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "neverssl.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "neverssl.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "www.HTTP.com",
+        "resource_uri": "/1.1"
+    },
+    {
+        "resource_uri": "/1.1",
+        "response_code": "403"
+    },
+    {
+        "http_method": "GET",
+        "host": "detectportal.firefox.com",
+        "resource_uri": "/success.txt?ipv4"
+    },
+    {
+        "resource_uri": "/success.txt?ipv4",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "wholeinnergrandeclipse.neverssl.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "neverssl.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "majesticastoundinggrandstars.neverssl.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "httpforever.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "httpforever.com",
+        "resource_uri": "/js/init.min.js"
+    },
+    {
+        "resource_uri": "/js/init.min.js",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "httpforever.com",
+        "resource_uri": "/css/style.min.css"
+    },
+    {
+        "http_method": "GET",
+        "host": "httpforever.com",
+        "resource_uri": "/css/style-wide.min.css"
+    },
+    {
+        "http_method": "GET",
+        "host": "httpforever.com",
+        "resource_uri": "/css/style-narrow.min.css"
+    },
+    {
+        "http_method": "GET",
+        "host": "httpforever.com",
+        "resource_uri": "/css/style-normal.min.css"
+    },
+    {
+        "resource_uri": "/css/style.min.css",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/css/style-wide.min.css",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/css/style-narrow.min.css",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/css/style-normal.min.css",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "httpforever.com",
+        "resource_uri": "/favicon.ico"
+    },
+    {
+        "http_method": "GET",
+        "host": "httpforever.com",
+        "resource_uri": "/css/images/banner.svg"
+    },
+    {
+        "http_method": "GET",
+        "host": "httpforever.com",
+        "resource_uri": "/css/images/header-major-on-light.svg"
+    },
+    {
+        "http_method": "GET",
+        "host": "httpforever.com",
+        "resource_uri": "/css/images/header-major-on-dark.svg"
+    },
+    {
+        "resource_uri": "/favicon.ico",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/css/images/header-major-on-light.svg",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/css/images/banner.svg",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/css/images/header-major-on-dark.svg",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "testaspnet.vulnweb.com",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "testaspnet.vulnweb.com",
+        "resource_uri": "/styles.css"
+    },
+    {
+        "resource_uri": "/styles.css",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "testaspnet.vulnweb.com",
+        "resource_uri": "/images/rss.gif"
+    },
+    {
+        "http_method": "GET",
+        "host": "testaspnet.vulnweb.com",
+        "resource_uri": "/images/logo_acunetix.gif"
+    },
+    {
+        "http_method": "GET",
+        "host": "testaspnet.vulnweb.com",
+        "resource_uri": "/images/background.gif"
+    },
+    {
+        "resource_uri": "/images/logo_acunetix.gif",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/images/rss.gif",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/images/background.gif",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "testaspnet.vulnweb.com",
+        "resource_uri": "/favicon.ico"
+    },
+    {
+        "resource_uri": "/favicon.ico",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "demo.testfire.net",
+        "resource_uri": "/"
+    },
+    {
+        "resource_uri": "/",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "demo.testfire.net",
+        "resource_uri": "/style.css"
+    },
+    {
+        "resource_uri": "/style.css",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "demo.testfire.net",
+        "resource_uri": "/images/pf_lock.gif"
+    },
+    {
+        "http_method": "GET",
+        "host": "demo.testfire.net",
+        "resource_uri": "/images/home1.jpg"
+    },
+    {
+        "http_method": "GET",
+        "host": "demo.testfire.net",
+        "resource_uri": "/images/home2.jpg"
+    },
+    {
+        "http_method": "GET",
+        "host": "demo.testfire.net",
+        "resource_uri": "/images/home3.jpg"
+    },
+    {
+        "http_method": "GET",
+        "host": "demo.testfire.net",
+        "resource_uri": "/images/logo.gif"
+    },
+    {
+        "http_method": "GET",
+        "host": "demo.testfire.net",
+        "resource_uri": "/images/header_pic.jpg"
+    },
+    {
+        "resource_uri": "/images/pf_lock.gif",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/images/home2.jpg",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/images/home1.jpg",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/images/home3.jpg",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "demo.testfire.net",
+        "resource_uri": "/images/gradient.jpg"
+    },
+    {
+        "resource_uri": "/images/logo.gif",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/images/header_pic.jpg",
+        "response_code": "200"
+    },
+    {
+        "resource_uri": "/images/gradient.jpg",
+        "response_code": "200"
+    },
+    {
+        "http_method": "GET",
+        "host": "demo.testfire.net",
+        "resource_uri": "/favicon.ico"
+    },
+    {
+        "resource_uri": "/favicon.ico",
+        "response_code": "404"
+    }
+]

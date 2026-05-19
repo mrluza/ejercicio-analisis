@@ -1,0 +1,2375 @@
+[
+    {
+        "query_name": "content-signature-2.cdn.mozilla.net",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "content-signature-2.cdn.mozilla.net",
+        "query_type": "1",
+        "response_name": "content-signature-2.cdn.mozilla.net"
+    },
+    {
+        "query_name": "detectportal.firefox.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "detectportal.firefox.com",
+        "query_type": "1",
+        "response_name": "detectportal.firefox.com"
+    },
+    {
+        "query_name": "ads.mozilla.org",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "ads.mozilla.org",
+        "query_type": "1",
+        "response_name": "ads.mozilla.org"
+    },
+    {
+        "query_name": "merino.services.mozilla.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "merino.services.mozilla.com",
+        "query_type": "1",
+        "response_name": "merino.services.mozilla.com"
+    },
+    {
+        "query_name": "safebrowsing.googleapis.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "safebrowsing.googleapis.com",
+        "query_type": "1",
+        "response_name": "safebrowsing.googleapis.com"
+    },
+    {
+        "query_name": "firefox.settings.services.mozilla.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "firefox.settings.services.mozilla.com",
+        "query_type": "1",
+        "response_name": "firefox.settings.services.mozilla.com"
+    },
+    {
+        "query_name": "prod.ohttp-gateway.prod.webservices.mozgcp.net",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "prod.ohttp-gateway.prod.webservices.mozgcp.net",
+        "query_type": "1",
+        "response_name": "prod.ohttp-gateway.prod.webservices.mozgcp.net"
+    },
+    {
+        "query_name": "ohttp-gateway-merino.services.mozilla.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "ohttp-gateway-merino.services.mozilla.com",
+        "query_type": "1",
+        "response_name": "ohttp-gateway-merino.services.mozilla.com"
+    },
+    {
+        "query_name": "push.services.mozilla.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "push.services.mozilla.com",
+        "query_type": "1",
+        "response_name": "push.services.mozilla.com"
+    },
+    {
+        "query_name": "mozilla-ohttp.fastly-edge.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "mozilla-ohttp.fastly-edge.com",
+        "query_type": "1",
+        "response_name": "mozilla-ohttp.fastly-edge.com"
+    },
+    {
+        "query_name": "ohttp-merino.mozilla.fastly-edge.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "ohttp-merino.mozilla.fastly-edge.com",
+        "query_type": "1",
+        "response_name": "ohttp-merino.mozilla.fastly-edge.com"
+    },
+    {
+        "query_name": "mail.google.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "mail.google.com",
+        "query_type": "65",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "mail.google.com",
+        "query_type": "1",
+        "response_name": "mail.google.com"
+    },
+    {
+        "query_name": "mail.google.com",
+        "query_type": "65",
+        "response_name": "google.com"
+    },
+    {
+        "query_name": "accounts.google.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "accounts.google.com",
+        "query_type": "65",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "accounts.google.com",
+        "query_type": "1",
+        "response_name": "accounts.google.com"
+    },
+    {
+        "query_name": "accounts.google.com",
+        "query_type": "65",
+        "response_name": "google.com"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "65",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "1",
+        "response_name": "addons.mozilla.org"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "65",
+        "response_name": "addons.mozilla.org"
+    },
+    {
+        "query_name": "ads-img.mozilla.org",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "ads-img.mozilla.org",
+        "query_type": "65",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "ads-img.mozilla.org",
+        "query_type": "1",
+        "response_name": "ads-img.mozilla.org"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "65",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "www.youtube.com",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "www.youtube.com",
+        "query_type": "65",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "www.youtube.com",
+        "query_type": "1",
+        "response_name": "www.youtube.com"
+    },
+    {
+        "query_name": "www.wikipedia.org",
+        "query_type": "1",
+        "response_name": "<Root>"
+    },
+    {
+        "query_name": "www.youtube.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.youtube.com",
+        "query_type": "1",
+        "response_name": "www.youtube.com"
+    },
+    {
+        "query_name": "www.wikipedia.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "mail.google.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.amazon.es",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.amazon.es",
+        "query_type": "65"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "1"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "65"
+    },
+    {
+        "query_name": "aliexpress.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "aliexpress.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "1",
+        "response_name": "support.mozilla.org"
+    },
+    {
+        "query_name": "www.youtube.com",
+        "query_type": "65",
+        "response_name": "www.youtube.com"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "65",
+        "response_name": "support.mozilla.org"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "restrict.youtube.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "1",
+        "response_name": "support.mozilla.org"
+    },
+    {
+        "query_name": "www.wikipedia.org",
+        "query_type": "65",
+        "response_name": "www.wikipedia.org"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "65",
+        "response_name": "www.reddit.com"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "1",
+        "response_name": "www.reddit.com"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "65",
+        "response_name": "addons.mozilla.org"
+    },
+    {
+        "query_name": "dyna.wikimedia.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "reddit.map.fastly.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "1",
+        "response_name": "temuaffiliateprogram.pxf.io"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "65",
+        "response_name": "pxf.io"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "65",
+        "response_name": "support.mozilla.org"
+    },
+    {
+        "query_name": "mozilla.map.fastly.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "dyna.wikimedia.org",
+        "query_type": "65",
+        "response_name": "wikimedia.org"
+    },
+    {
+        "query_name": "www.wikipedia.org",
+        "query_type": "1",
+        "response_name": "www.wikipedia.org"
+    },
+    {
+        "query_name": "dyna.wikimedia.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "dyna.wikimedia.org",
+        "query_type": "1",
+        "response_name": "dyna.wikimedia.org"
+    },
+    {
+        "query_name": "mail.google.com",
+        "query_type": "65",
+        "response_name": "google.com"
+    },
+    {
+        "query_name": "mozilla.map.fastly.net",
+        "query_type": "65",
+        "response_name": "fastly.net"
+    },
+    {
+        "query_name": "www.amazon.es",
+        "query_type": "65",
+        "response_name": "www.amazon.es"
+    },
+    {
+        "query_name": "cf.1fe6d5bb2-frontier.amazon.es",
+        "query_type": "65"
+    },
+    {
+        "query_name": "restrict.youtube.com",
+        "query_type": "65",
+        "response_name": "youtube.com"
+    },
+    {
+        "query_name": "www.amazon.es",
+        "query_type": "1",
+        "response_name": "www.amazon.es"
+    },
+    {
+        "query_name": "cf.1fe6d5bb2-frontier.amazon.es",
+        "query_type": "65",
+        "response_name": "1fe6d5bb2-frontier.amazon.es"
+    },
+    {
+        "query_name": "aliexpress.com",
+        "query_type": "65",
+        "response_name": "aliexpress.com"
+    },
+    {
+        "query_name": "aliexpress.com",
+        "query_type": "1",
+        "response_name": "aliexpress.com"
+    },
+    {
+        "query_name": "www.googletagmanager.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.googletagmanager.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.googletagmanager.com",
+        "query_type": "1",
+        "response_name": "www.googletagmanager.com"
+    },
+    {
+        "query_name": "www.googletagmanager.com",
+        "query_type": "65",
+        "response_name": "googletagmanager.com"
+    },
+    {
+        "query_name": "www.gstatic.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.gstatic.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.gstatic.com",
+        "query_type": "1",
+        "response_name": "www.gstatic.com"
+    },
+    {
+        "query_name": "www.gstatic.com",
+        "query_type": "65",
+        "response_name": "gstatic.com"
+    },
+    {
+        "query_name": "restrict.youtube.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "restrict.youtube.com",
+        "query_type": "65",
+        "response_name": "youtube.com"
+    },
+    {
+        "query_name": "fonts.gstatic.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "fonts.gstatic.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "fonts.gstatic.com",
+        "query_type": "1",
+        "response_name": "fonts.gstatic.com"
+    },
+    {
+        "query_name": "fonts.gstatic.com",
+        "query_type": "65",
+        "response_name": "fonts.gstatic.com"
+    },
+    {
+        "query_name": "i.ytimg.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "i.ytimg.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "fonts.googleapis.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "fonts.googleapis.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "i.ytimg.com",
+        "query_type": "1",
+        "response_name": "i.ytimg.com"
+    },
+    {
+        "query_name": "i.ytimg.com",
+        "query_type": "65",
+        "response_name": "ytimg.com"
+    },
+    {
+        "query_name": "fonts.googleapis.com",
+        "query_type": "1",
+        "response_name": "fonts.googleapis.com"
+    },
+    {
+        "query_name": "ads-img.mozilla.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "ads-img.mozilla.org",
+        "query_type": "65",
+        "response_name": "mozilla.org"
+    },
+    {
+        "query_name": "region1.google-analytics.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "region1.google-analytics.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "region1.google-analytics.com",
+        "query_type": "1",
+        "response_name": "region1.google-analytics.com"
+    },
+    {
+        "query_name": "region1.google-analytics.com",
+        "query_type": "65",
+        "response_name": "google-analytics.com"
+    },
+    {
+        "query_name": "accounts.youtube.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "accounts.youtube.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "accounts.youtube.com",
+        "query_type": "1",
+        "response_name": "accounts.youtube.com"
+    },
+    {
+        "query_name": "accounts.youtube.com",
+        "query_type": "65",
+        "response_name": "accounts.youtube.com"
+    },
+    {
+        "query_name": "www3.l.google.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www3.l.google.com",
+        "query_type": "65",
+        "response_name": "l.google.com"
+    },
+    {
+        "query_name": "reddit.map.fastly.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "reddit.map.fastly.net",
+        "query_type": "65",
+        "response_name": "fastly.net"
+    },
+    {
+        "query_name": "normandy.cdn.mozilla.net",
+        "query_type": "1"
+    },
+    {
+        "query_name": "normandy.cdn.mozilla.net",
+        "query_type": "1",
+        "response_name": "normandy.cdn.mozilla.net"
+    },
+    {
+        "query_name": "classify-client.services.mozilla.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "classify-client.services.mozilla.com",
+        "query_type": "1",
+        "response_name": "classify-client.services.mozilla.com"
+    },
+    {
+        "query_name": "incoming.telemetry.mozilla.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "incoming.telemetry.mozilla.org",
+        "query_type": "1",
+        "response_name": "incoming.telemetry.mozilla.org"
+    },
+    {
+        "query_name": "example.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "cloudflare-dns.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "example.org",
+        "query_type": "1",
+        "response_name": "example.org"
+    },
+    {
+        "query_name": "ipv4only.arpa",
+        "query_type": "1"
+    },
+    {
+        "query_name": "cloudflare-dns.com",
+        "query_type": "65",
+        "response_name": "cloudflare-dns.com"
+    },
+    {
+        "query_name": "ipv4only.arpa",
+        "query_type": "1",
+        "response_name": "ipv4only.arpa"
+    },
+    {
+        "query_name": "fonts.googleapis.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "fonts.googleapis.com",
+        "query_type": "65",
+        "response_name": "googleapis.com"
+    },
+    {
+        "query_name": "firefox-settings-attachments.cdn.mozilla.net",
+        "query_type": "1"
+    },
+    {
+        "query_name": "firefox-settings-attachments.cdn.mozilla.net",
+        "query_type": "1",
+        "response_name": "firefox-settings-attachments.cdn.mozilla.net"
+    },
+    {
+        "query_name": "aliexpress.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "aliexpress.com",
+        "query_type": "65",
+        "response_name": "aliexpress.com"
+    },
+    {
+        "query_name": "googleads.g.doubleclick.net",
+        "query_type": "1"
+    },
+    {
+        "query_name": "googleads.g.doubleclick.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "googleads.g.doubleclick.net",
+        "query_type": "1",
+        "response_name": "googleads.g.doubleclick.net"
+    },
+    {
+        "query_name": "googleads.g.doubleclick.net",
+        "query_type": "65",
+        "response_name": "googleads.g.doubleclick.net"
+    },
+    {
+        "query_name": "www.google.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.google.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.google.com",
+        "query_type": "1",
+        "response_name": "www.google.com"
+    },
+    {
+        "query_name": "www.google.com",
+        "query_type": "65",
+        "response_name": "www.google.com"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "65"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "1"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "65",
+        "response_name": "pxf.io"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "1",
+        "response_name": "temuaffiliateprogram.pxf.io"
+    },
+    {
+        "query_name": "www.aliexpress.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.aliexpress.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.ojrq.net",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.ojrq.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.ojrq.net",
+        "query_type": "1",
+        "response_name": "www.ojrq.net"
+    },
+    {
+        "query_name": "www.ojrq.net",
+        "query_type": "65",
+        "response_name": "ojrq.net"
+    },
+    {
+        "query_name": "www.aliexpress.com",
+        "query_type": "1",
+        "response_name": "www.aliexpress.com"
+    },
+    {
+        "query_name": "www.aliexpress.com",
+        "query_type": "65",
+        "response_name": "www.aliexpress.com"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65",
+        "response_name": "b.akamaiedge.net"
+    },
+    {
+        "query_name": "es.aliexpress.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "es.aliexpress.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.temu.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.temu.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.temu.com",
+        "query_type": "65",
+        "response_name": "www.temu.com"
+    },
+    {
+        "query_name": "www.temu.com.cdn.cloudflare.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.temu.com.cdn.cloudflare.net",
+        "query_type": "65",
+        "response_name": "cloudflare.net"
+    },
+    {
+        "query_name": "es.aliexpress.com",
+        "query_type": "1",
+        "response_name": "es.aliexpress.com"
+    },
+    {
+        "query_name": "es.aliexpress.com",
+        "query_type": "65",
+        "response_name": "es.aliexpress.com"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65",
+        "response_name": "b.akamaiedge.net"
+    },
+    {
+        "query_name": "g.alicdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "g.alicdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "assets.alicdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "assets.alicdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "o.alicdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "o.alicdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "is.alicdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "is.alicdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "aeis.alicdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "aeis.alicdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "ae01.alicdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "ae01.alicdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "ae04.alicdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "ae04.alicdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "ae-pic-a1.aliexpress-media.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "ae-pic-a1.aliexpress-media.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "acs.aliexpress.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "acs.aliexpress.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "acs.aliexpress.us",
+        "query_type": "65"
+    },
+    {
+        "query_name": "acs.aliexpress.us",
+        "query_type": "1"
+    },
+    {
+        "query_name": "ae.mmstat.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "ae.mmstat.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "time-ae.akamaized.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "time-ae.akamaized.net",
+        "query_type": "1"
+    },
+    {
+        "query_name": "video.aliexpress-media.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "video.aliexpress-media.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "time-ae.akamaized.net",
+        "query_type": "65",
+        "response_name": "time-ae.akamaized.net"
+    },
+    {
+        "query_name": "a1944.dscr.akamai.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "time-ae.akamaized.net",
+        "query_type": "1",
+        "response_name": "time-ae.akamaized.net"
+    },
+    {
+        "query_name": "a1944.dscr.akamai.net",
+        "query_type": "65",
+        "response_name": "dscr.akamai.net"
+    },
+    {
+        "query_name": "assets.aliexpress-media.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "assets.aliexpress-media.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "aeis.alicdn.com",
+        "query_type": "65",
+        "response_name": "aeis.alicdn.com"
+    },
+    {
+        "query_name": "aeis.alicdn.com",
+        "query_type": "1",
+        "response_name": "aeis.alicdn.com"
+    },
+    {
+        "query_name": "e11956.dscb.akamaiedge.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "e11956.dscb.akamaiedge.net",
+        "query_type": "65",
+        "response_name": "dscb.akamaiedge.net"
+    },
+    {
+        "query_name": "assets.aliexpress-media.com",
+        "query_type": "65",
+        "response_name": "assets.aliexpress-media.com"
+    },
+    {
+        "query_name": "e78581.b.akamaiedge.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "e78581.b.akamaiedge.net",
+        "query_type": "65",
+        "response_name": "b.akamaiedge.net"
+    },
+    {
+        "query_name": "ae.mmstat.com",
+        "query_type": "1",
+        "response_name": "ae.mmstat.com"
+    },
+    {
+        "query_name": "assets.alicdn.com",
+        "query_type": "1",
+        "response_name": "assets.alicdn.com"
+    },
+    {
+        "query_name": "ae-pic-a1.aliexpress-media.com",
+        "query_type": "65",
+        "response_name": "ae-pic-a1.aliexpress-media.com"
+    },
+    {
+        "query_name": "a2000.b.akamai.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "is.alicdn.com",
+        "query_type": "65",
+        "response_name": "is.alicdn.com"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "a2000.b.akamai.net",
+        "query_type": "65",
+        "response_name": "b.akamai.net"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65",
+        "response_name": "b.akamaiedge.net"
+    },
+    {
+        "query_name": "assets.alicdn.com",
+        "query_type": "65",
+        "response_name": "assets.alicdn.com"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "o.alicdn.com",
+        "query_type": "65",
+        "response_name": "o.alicdn.com"
+    },
+    {
+        "query_name": "o.alicdn.com.w.cdngslb.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65",
+        "response_name": "b.akamaiedge.net"
+    },
+    {
+        "query_name": "ae-pic-a1.aliexpress-media.com",
+        "query_type": "1",
+        "response_name": "ae-pic-a1.aliexpress-media.com"
+    },
+    {
+        "query_name": "g.alicdn.com",
+        "query_type": "1",
+        "response_name": "g.alicdn.com"
+    },
+    {
+        "query_name": "ae04.alicdn.com",
+        "query_type": "65",
+        "response_name": "ae04.alicdn.com"
+    },
+    {
+        "query_name": "a2000.b.akamai.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "is.alicdn.com",
+        "query_type": "1",
+        "response_name": "is.alicdn.com"
+    },
+    {
+        "query_name": "a2000.b.akamai.net",
+        "query_type": "65",
+        "response_name": "b.akamai.net"
+    },
+    {
+        "query_name": "g.alicdn.com",
+        "query_type": "65",
+        "response_name": "g.alicdn.com"
+    },
+    {
+        "query_name": "a1320.dscb.akamai.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "a1320.dscb.akamai.net",
+        "query_type": "65",
+        "response_name": "dscb.akamai.net"
+    },
+    {
+        "query_name": "o.alicdn.com.w.cdngslb.com",
+        "query_type": "65",
+        "response_name": "w.cdngslb.com"
+    },
+    {
+        "query_name": "o.alicdn.com",
+        "query_type": "1",
+        "response_name": "o.alicdn.com"
+    },
+    {
+        "query_name": "ae04.alicdn.com",
+        "query_type": "1",
+        "response_name": "ae04.alicdn.com"
+    },
+    {
+        "query_name": "ae01.alicdn.com",
+        "query_type": "65",
+        "response_name": "ae01.alicdn.com"
+    },
+    {
+        "query_name": "a2000.b.akamai.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "video.aliexpress-media.com",
+        "query_type": "1",
+        "response_name": "video.aliexpress-media.com"
+    },
+    {
+        "query_name": "a2000.b.akamai.net",
+        "query_type": "65",
+        "response_name": "b.akamai.net"
+    },
+    {
+        "query_name": "video.aliexpress-media.com",
+        "query_type": "65",
+        "response_name": "video.aliexpress-media.com"
+    },
+    {
+        "query_name": "eu.ingress-ae.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "assets.aliexpress-media.com",
+        "query_type": "1",
+        "response_name": "assets.aliexpress-media.com"
+    },
+    {
+        "query_name": "acs.aliexpress.com",
+        "query_type": "65",
+        "response_name": "acs.aliexpress.com"
+    },
+    {
+        "query_name": "eu-acs.ingress-ae.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "eu.ingress-ae.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65",
+        "response_name": "gds.alibabadns.com"
+    },
+    {
+        "query_name": "ae.mmstat.com",
+        "query_type": "65",
+        "response_name": "ae.mmstat.com"
+    },
+    {
+        "query_name": "ae.mmstat.com.gds.alibabadns.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "eu-acs.ingress-ae.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65",
+        "response_name": "gds.alibabadns.com"
+    },
+    {
+        "query_name": "acs.aliexpress.com",
+        "query_type": "1",
+        "response_name": "acs.aliexpress.com"
+    },
+    {
+        "query_name": "ae.mmstat.com.gds.alibabadns.com",
+        "query_type": "65",
+        "response_name": "gds.alibabadns.com"
+    },
+    {
+        "query_name": "acs.aliexpress.us",
+        "query_type": "65",
+        "response_name": "acs.aliexpress.us"
+    },
+    {
+        "query_name": "eu-acs.ingress-ae.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "acs.aliexpress.us",
+        "query_type": "1",
+        "response_name": "acs.aliexpress.us"
+    },
+    {
+        "query_name": "eu-acs.ingress-ae.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65",
+        "response_name": "gds.alibabadns.com"
+    },
+    {
+        "query_name": "26427.ase.aidcgroup.net",
+        "query_type": "1"
+    },
+    {
+        "query_name": "26427.ase.aidcgroup.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "26427.ase.aidcgroup.net",
+        "query_type": "65",
+        "response_name": "aidcgroup.net"
+    },
+    {
+        "query_name": "pagead2.googlesyndication.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "pagead2.googlesyndication.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "pagead2.googlesyndication.com",
+        "query_type": "1",
+        "response_name": "pagead2.googlesyndication.com"
+    },
+    {
+        "query_name": "pagead2.googlesyndication.com",
+        "query_type": "65",
+        "response_name": "pagead2.googlesyndication.com"
+    },
+    {
+        "query_name": "s.click.aliexpress.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "s.click.aliexpress.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "26427.ase.aidcgroup.net",
+        "query_type": "1",
+        "response_name": "26427.ase.aidcgroup.net"
+    },
+    {
+        "query_name": "www.temu.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.temu.com",
+        "query_type": "1",
+        "response_name": "www.temu.com"
+    },
+    {
+        "query_name": "s.click.aliexpress.com",
+        "query_type": "1",
+        "response_name": "s.click.aliexpress.com"
+    },
+    {
+        "query_name": "s.click.aliexpress.com",
+        "query_type": "65",
+        "response_name": "s.click.aliexpress.com"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "stun.l.google.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun.l.google.com",
+        "query_type": "1",
+        "response_name": "stun.l.google.com"
+    },
+    {
+        "query_name": "services.addons.mozilla.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "services.addons.mozilla.org",
+        "query_type": "1",
+        "response_name": "services.addons.mozilla.org"
+    },
+    {
+        "query_name": "versioncheck-bg.addons.mozilla.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "versioncheck-bg.addons.mozilla.org",
+        "query_type": "1",
+        "response_name": "versioncheck-bg.addons.mozilla.org"
+    },
+    {
+        "query_name": "aus5.mozilla.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "aus5.mozilla.org",
+        "query_type": "1",
+        "response_name": "aus5.mozilla.org"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "cf.1fe6d5bb2-frontier.amazon.es",
+        "query_type": "65"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "65"
+    },
+    {
+        "query_name": "aliexpress.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "restrict.youtube.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "dyna.wikimedia.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "mail.google.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "1",
+        "response_name": "www.reddit.com"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "1",
+        "response_name": "support.mozilla.org"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "65",
+        "response_name": "support.mozilla.org"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "65",
+        "response_name": "pxf.io"
+    },
+    {
+        "query_name": "cf.1fe6d5bb2-frontier.amazon.es",
+        "query_type": "65",
+        "response_name": "1fe6d5bb2-frontier.amazon.es"
+    },
+    {
+        "query_name": "restrict.youtube.com",
+        "query_type": "65",
+        "response_name": "youtube.com"
+    },
+    {
+        "query_name": "mozilla.map.fastly.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "mail.google.com",
+        "query_type": "65",
+        "response_name": "google.com"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "65",
+        "response_name": "addons.mozilla.org"
+    },
+    {
+        "query_name": "dyna.wikimedia.org",
+        "query_type": "65",
+        "response_name": "wikimedia.org"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "1",
+        "response_name": "addons.mozilla.org"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "65",
+        "response_name": "www.reddit.com"
+    },
+    {
+        "query_name": "reddit.map.fastly.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "mozilla.map.fastly.net",
+        "query_type": "65",
+        "response_name": "fastly.net"
+    },
+    {
+        "query_name": "reddit.map.fastly.net",
+        "query_type": "65",
+        "response_name": "fastly.net"
+    },
+    {
+        "query_name": "aliexpress.com",
+        "query_type": "65",
+        "response_name": "aliexpress.com"
+    },
+    {
+        "query_name": "img.kwcdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "img.kwcdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "aimg.kwcdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "aimg.kwcdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "static.kwcdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "static.kwcdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "aplus.aliexpress.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "img.kwcdn.com",
+        "query_type": "65",
+        "response_name": "img.kwcdn.com"
+    },
+    {
+        "query_name": "aplus.aliexpress.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "cdn-fast.kwcdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "img.kwcdn.com",
+        "query_type": "1",
+        "response_name": "img.kwcdn.com"
+    },
+    {
+        "query_name": "aimg.kwcdn.com",
+        "query_type": "1",
+        "response_name": "aimg.kwcdn.com"
+    },
+    {
+        "query_name": "aimg.kwcdn.com",
+        "query_type": "65",
+        "response_name": "aimg.kwcdn.com"
+    },
+    {
+        "query_name": "static.kwcdn.com",
+        "query_type": "1",
+        "response_name": "static.kwcdn.com"
+    },
+    {
+        "query_name": "static.kwcdn.com",
+        "query_type": "65",
+        "response_name": "static.kwcdn.com"
+    },
+    {
+        "query_name": "cdn-endpoint.kwcdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "cdn-fast.kwcdn.com",
+        "query_type": "65",
+        "response_name": "kwcdn.com"
+    },
+    {
+        "query_name": "cdn-endpoint.kwcdn.com",
+        "query_type": "65",
+        "response_name": "kwcdn.com"
+    },
+    {
+        "query_name": "commimg.kwcdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "commimg.kwcdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "commimg.kwcdn.com",
+        "query_type": "65",
+        "response_name": "commimg.kwcdn.com"
+    },
+    {
+        "query_name": "commimg.kwcdn.com.cdn.cloudflare.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "commimg.kwcdn.com",
+        "query_type": "1",
+        "response_name": "commimg.kwcdn.com"
+    },
+    {
+        "query_name": "commimg.kwcdn.com.cdn.cloudflare.net",
+        "query_type": "65",
+        "response_name": "cloudflare.net"
+    },
+    {
+        "query_name": "aplus.aliexpress.com",
+        "query_type": "1",
+        "response_name": "aplus.aliexpress.com"
+    },
+    {
+        "query_name": "yt3.ggpht.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "yt3.ggpht.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "yt3.ggpht.com",
+        "query_type": "1",
+        "response_name": "yt3.ggpht.com"
+    },
+    {
+        "query_name": "yt3.ggpht.com",
+        "query_type": "65",
+        "response_name": "ggpht.com"
+    },
+    {
+        "query_name": "aplus.aliexpress.com",
+        "query_type": "65",
+        "response_name": "aplus.aliexpress.com"
+    },
+    {
+        "query_name": "aplus.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "aplus.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65",
+        "response_name": "gds.alibabadns.com"
+    },
+    {
+        "query_name": "ad.doubleclick.net",
+        "query_type": "1"
+    },
+    {
+        "query_name": "ad.doubleclick.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "ad.doubleclick.net",
+        "query_type": "1",
+        "response_name": "ad.doubleclick.net"
+    },
+    {
+        "query_name": "ad.doubleclick.net",
+        "query_type": "65",
+        "response_name": "ad.doubleclick.net"
+    },
+    {
+        "query_name": "recom-acs.aliexpress.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "recom-acs.aliexpress.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "e78581.b.akamaiedge.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "e78581.b.akamaiedge.net",
+        "query_type": "65",
+        "response_name": "b.akamaiedge.net"
+    },
+    {
+        "query_name": "recom-acs.aliexpress.com",
+        "query_type": "65",
+        "response_name": "recom-acs.aliexpress.com"
+    },
+    {
+        "query_name": "eu-acs.ingress-ae.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "e11956.b.akamaiedge.net",
+        "query_type": "65",
+        "response_name": "b.akamaiedge.net"
+    },
+    {
+        "query_name": "recom-acs.aliexpress.com",
+        "query_type": "1",
+        "response_name": "recom-acs.aliexpress.com"
+    },
+    {
+        "query_name": "youtube.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "youtube.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "youtube.com",
+        "query_type": "1",
+        "response_name": "youtube.com"
+    },
+    {
+        "query_name": "youtube.com",
+        "query_type": "65",
+        "response_name": "youtube.com"
+    },
+    {
+        "query_name": "img.alicdn.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "img.alicdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "img.alicdn.com",
+        "query_type": "1",
+        "response_name": "img.alicdn.com"
+    },
+    {
+        "query_name": "eu.pftk.temu.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "eu.pftk.temu.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "eu.pftk.temu.com",
+        "query_type": "1",
+        "response_name": "eu.pftk.temu.com"
+    },
+    {
+        "query_name": "eu.pftk.temu.com",
+        "query_type": "65",
+        "response_name": "eu.pftk.temu.com"
+    },
+    {
+        "query_name": "pftk-eu.temu.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "pftk-eu.temu.com",
+        "query_type": "65",
+        "response_name": "temu.com"
+    },
+    {
+        "query_name": "img.alicdn.com",
+        "query_type": "65",
+        "response_name": "img.alicdn.com"
+    },
+    {
+        "query_name": "img.alicdn.com.danuoyi.alicdn.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "img.alicdn.com.danuoyi.alicdn.com",
+        "query_type": "65",
+        "response_name": "danuoyi.alicdn.com"
+    },
+    {
+        "query_name": "accounts.youtube.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "accounts.youtube.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "accounts.youtube.com",
+        "query_type": "1",
+        "response_name": "accounts.youtube.com"
+    },
+    {
+        "query_name": "accounts.youtube.com",
+        "query_type": "65",
+        "response_name": "accounts.youtube.com"
+    },
+    {
+        "query_name": "www3.l.google.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www3.l.google.com",
+        "query_type": "65",
+        "response_name": "l.google.com"
+    },
+    {
+        "query_name": "www.gstatic.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.gstatic.com",
+        "query_type": "65",
+        "response_name": "gstatic.com"
+    },
+    {
+        "query_name": "rr3---sn-25ge7nsd.googlevideo.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "eu-acs.ingress-ae.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "rr3---sn-25ge7nsd.googlevideo.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "rr3---sn-25ge7nsd.googlevideo.com",
+        "query_type": "1",
+        "response_name": "rr3---sn-25ge7nsd.googlevideo.com"
+    },
+    {
+        "query_name": "eu-acs.ingress-ae.aliexpress.com.gds.alibabadns.com",
+        "query_type": "65",
+        "response_name": "gds.alibabadns.com"
+    },
+    {
+        "query_name": "rr3---sn-25ge7nsd.googlevideo.com",
+        "query_type": "65",
+        "response_name": "rr3---sn-25ge7nsd.googlevideo.com"
+    },
+    {
+        "query_name": "i.ytimg.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "i.ytimg.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "i.ytimg.com",
+        "query_type": "1",
+        "response_name": "i.ytimg.com"
+    },
+    {
+        "query_name": "i.ytimg.com",
+        "query_type": "65",
+        "response_name": "ytimg.com"
+    },
+    {
+        "query_name": "eu.thtk.temu.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "eu.thtk.temu.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "eu.thtk.temu.com",
+        "query_type": "65",
+        "response_name": "eu.thtk.temu.com"
+    },
+    {
+        "query_name": "eu-thtk-temu-com.trafficmanager.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "eu.thtk.temu.com",
+        "query_type": "1",
+        "response_name": "eu.thtk.temu.com"
+    },
+    {
+        "query_name": "eu-thtk-temu-com.trafficmanager.net",
+        "query_type": "65",
+        "response_name": "trafficmanager.net"
+    },
+    {
+        "query_name": "static.doubleclick.net",
+        "query_type": "1"
+    },
+    {
+        "query_name": "static.doubleclick.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "static.doubleclick.net",
+        "query_type": "1",
+        "response_name": "static.doubleclick.net"
+    },
+    {
+        "query_name": "static.doubleclick.net",
+        "query_type": "65",
+        "response_name": "doubleclick.net"
+    },
+    {
+        "query_name": "stun1.l.google.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun2.l.google.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun3.l.google.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun4.l.google.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun.ekiga.net",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun.ideasip.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun.schlund.de",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun.voiparound.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun.voipbuster.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun.voipstunt.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun.ideasip.com",
+        "query_type": "1",
+        "response_name": "ideasip.com"
+    },
+    {
+        "query_name": "stun.ekiga.net",
+        "query_type": "1",
+        "response_name": "stun.ekiga.net"
+    },
+    {
+        "query_name": "stun1.l.google.com",
+        "query_type": "1",
+        "response_name": "stun1.l.google.com"
+    },
+    {
+        "query_name": "stun.voiparound.com",
+        "query_type": "1",
+        "response_name": "stun.voiparound.com"
+    },
+    {
+        "query_name": "stun.schlund.de",
+        "query_type": "1",
+        "response_name": "stun.schlund.de"
+    },
+    {
+        "query_name": "stun3.l.google.com",
+        "query_type": "1",
+        "response_name": "stun3.l.google.com"
+    },
+    {
+        "query_name": "stun2.l.google.com",
+        "query_type": "1",
+        "response_name": "stun2.l.google.com"
+    },
+    {
+        "query_name": "stun.ideasip.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "stun.voipstunt.com",
+        "query_type": "1",
+        "response_name": "stun.voipstunt.com"
+    },
+    {
+        "query_name": "stun.voipbuster.com",
+        "query_type": "1",
+        "response_name": "stun.voipbuster.com"
+    },
+    {
+        "query_name": "stun.ideasip.com",
+        "query_type": "1",
+        "response_name": "ideasip.com"
+    },
+    {
+        "query_name": "stun4.l.google.com",
+        "query_type": "1",
+        "response_name": "stun4.l.google.com"
+    },
+    {
+        "query_name": "us.ynuf.aliapp.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "us.ynuf.aliapp.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "us.ynuf.aliapp.org",
+        "query_type": "1",
+        "response_name": "us.ynuf.aliapp.org"
+    },
+    {
+        "query_name": "us.ynuf.aliapp.org",
+        "query_type": "65",
+        "response_name": "us.ynuf.aliapp.org"
+    },
+    {
+        "query_name": "international.ovs.de.tengine.ingress.alibabacorp.com.gds.alibabadns.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "international.ovs.de.tengine.ingress.alibabacorp.com.gds.alibabadns.com",
+        "query_type": "65",
+        "response_name": "gds.alibabadns.com"
+    },
+    {
+        "query_name": "rr2---sn-25ge7nzz.googlevideo.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "rr2---sn-25ge7nzz.googlevideo.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "rr2---sn-25ge7nzz.googlevideo.com",
+        "query_type": "65",
+        "response_name": "rr2---sn-25ge7nzz.googlevideo.com"
+    },
+    {
+        "query_name": "rr2---sn-25ge7nzz.googlevideo.com",
+        "query_type": "1",
+        "response_name": "rr2---sn-25ge7nzz.googlevideo.com"
+    },
+    {
+        "query_name": "tpc.googlesyndication.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "tpc.googlesyndication.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "tpc.googlesyndication.com",
+        "query_type": "1",
+        "response_name": "tpc.googlesyndication.com"
+    },
+    {
+        "query_name": "tpc.googlesyndication.com",
+        "query_type": "65",
+        "response_name": "googlesyndication.com"
+    },
+    {
+        "query_name": "rr3---sn-u125g5-5p.googlevideo.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "rr3---sn-u125g5-5p.googlevideo.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "rr3---sn-u125g5-5p.googlevideo.com",
+        "query_type": "1",
+        "response_name": "rr3---sn-u125g5-5p.googlevideo.com"
+    },
+    {
+        "query_name": "rr3---sn-u125g5-5p.googlevideo.com",
+        "query_type": "65",
+        "response_name": "rr3---sn-u125g5-5p.googlevideo.com"
+    },
+    {
+        "query_name": "a7cr0w.tdum.alibaba.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "a7cr0w.tdum.alibaba.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "a7cr0w.tdum.alibaba.com",
+        "query_type": "1",
+        "response_name": "a7cr0w.tdum.alibaba.com"
+    },
+    {
+        "query_name": "a7cr0w.tdum.alibaba.com",
+        "query_type": "65",
+        "response_name": "a7cr0w.tdum.alibaba.com"
+    },
+    {
+        "query_name": "international.ovs.de.tengine.ingress.alibabacorp.com.gds.alibabadns.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "international.ovs.de.tengine.ingress.alibabacorp.com.gds.alibabadns.com",
+        "query_type": "65",
+        "response_name": "gds.alibabadns.com"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "65",
+        "response_name": "www.reddit.com"
+    },
+    {
+        "query_name": "reddit.map.fastly.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.reddit.com",
+        "query_type": "1",
+        "response_name": "www.reddit.com"
+    },
+    {
+        "query_name": "reddit.map.fastly.net",
+        "query_type": "65",
+        "response_name": "fastly.net"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "1"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "cf.1fe6d5bb2-frontier.amazon.es",
+        "query_type": "65"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "1",
+        "response_name": "support.mozilla.org"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "65"
+    },
+    {
+        "query_name": "aliexpress.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "restrict.youtube.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "dyna.wikimedia.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "mail.google.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "65"
+    },
+    {
+        "query_name": "support.mozilla.org",
+        "query_type": "65",
+        "response_name": "support.mozilla.org"
+    },
+    {
+        "query_name": "mozilla.map.fastly.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "reddit.map.fastly.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "cf.1fe6d5bb2-frontier.amazon.es",
+        "query_type": "65",
+        "response_name": "1fe6d5bb2-frontier.amazon.es"
+    },
+    {
+        "query_name": "temuaffiliateprogram.pxf.io",
+        "query_type": "65",
+        "response_name": "pxf.io"
+    },
+    {
+        "query_name": "aliexpress.com",
+        "query_type": "65",
+        "response_name": "aliexpress.com"
+    },
+    {
+        "query_name": "dyna.wikimedia.org",
+        "query_type": "65",
+        "response_name": "wikimedia.org"
+    },
+    {
+        "query_name": "mozilla.map.fastly.net",
+        "query_type": "65",
+        "response_name": "fastly.net"
+    },
+    {
+        "query_name": "addons.mozilla.org",
+        "query_type": "65",
+        "response_name": "addons.mozilla.org"
+    },
+    {
+        "query_name": "reddit.map.fastly.net",
+        "query_type": "65",
+        "response_name": "fastly.net"
+    },
+    {
+        "query_name": "restrict.youtube.com",
+        "query_type": "65",
+        "response_name": "youtube.com"
+    },
+    {
+        "query_name": "www.redditstatic.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.redditstatic.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "www.redditstatic.com",
+        "query_type": "65",
+        "response_name": "www.redditstatic.com"
+    },
+    {
+        "query_name": "dualstack.reddit.map.fastly.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www.redditstatic.com",
+        "query_type": "1",
+        "response_name": "www.redditstatic.com"
+    },
+    {
+        "query_name": "dualstack.reddit.map.fastly.net",
+        "query_type": "65",
+        "response_name": "fastly.net"
+    },
+    {
+        "query_name": "cf.1fe6d5bb2-frontier.amazon.es",
+        "query_type": "65"
+    },
+    {
+        "query_name": "cf.1fe6d5bb2-frontier.amazon.es",
+        "query_type": "65",
+        "response_name": "1fe6d5bb2-frontier.amazon.es"
+    },
+    {
+        "query_name": "preview.redd.it",
+        "query_type": "1"
+    },
+    {
+        "query_name": "preview.redd.it",
+        "query_type": "65"
+    },
+    {
+        "query_name": "preview.redd.it",
+        "query_type": "1",
+        "response_name": "preview.redd.it"
+    },
+    {
+        "query_name": "preview.redd.it",
+        "query_type": "65",
+        "response_name": "preview.redd.it"
+    },
+    {
+        "query_name": "dualstack.reddit.map.fastly.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "dualstack.reddit.map.fastly.net",
+        "query_type": "65",
+        "response_name": "fastly.net"
+    },
+    {
+        "query_name": "emoji.redditmedia.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "emoji.redditmedia.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "emoji.redditmedia.com",
+        "query_type": "1",
+        "response_name": "emoji.redditmedia.com"
+    },
+    {
+        "query_name": "detectportal.firefox.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "detectportal.firefox.com",
+        "query_type": "1",
+        "response_name": "detectportal.firefox.com"
+    },
+    {
+        "query_name": "r1---sn-tn.googlevideo.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "r1---sn-tn.googlevideo.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "r1---sn-tn.googlevideo.com",
+        "query_type": "1",
+        "response_name": "r1---sn-tn.googlevideo.com"
+    },
+    {
+        "query_name": "r1---sn-tn.googlevideo.com",
+        "query_type": "65",
+        "response_name": "r1---sn-tn.googlevideo.com"
+    },
+    {
+        "query_name": "aax-eu.amazon-adsystem.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "aax-eu.amazon-adsystem.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "aax-eu.amazon-adsystem.com",
+        "query_type": "1",
+        "response_name": "aax-eu.amazon-adsystem.com"
+    },
+    {
+        "query_name": "aax-eu.amazon-adsystem.com",
+        "query_type": "65",
+        "response_name": "aax-eu.amazon-adsystem.com"
+    },
+    {
+        "query_name": "maws-aax-eu.amazon-adsystem.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "maws-aax-eu.amazon-adsystem.com",
+        "query_type": "65",
+        "response_name": "maws-aax-eu.amazon-adsystem.com"
+    },
+    {
+        "query_name": "a315e6504604889077c57f37f87676d06.profile.mrs53-p1.cloudfront.net",
+        "query_type": "1"
+    },
+    {
+        "query_name": "a315e6504604889077c57f37f87676d06.profile.mrs53-p1.cloudfront.net",
+        "query_type": "65"
+    },
+    {
+        "query_name": "a315e6504604889077c57f37f87676d06.profile.mrs53-p1.cloudfront.net",
+        "query_type": "65",
+        "response_name": "cloudfront.net"
+    },
+    {
+        "query_name": "a315e6504604889077c57f37f87676d06.profile.mrs53-p1.cloudfront.net",
+        "query_type": "1",
+        "response_name": "a315e6504604889077c57f37f87676d06.profile.mrs53-p1.cloudfront.net"
+    },
+    {
+        "query_name": "ogs.google.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "ogs.google.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "ogs.google.com",
+        "query_type": "65",
+        "response_name": "ogs.google.com"
+    },
+    {
+        "query_name": "ogs.google.com",
+        "query_type": "1",
+        "response_name": "ogs.google.com"
+    },
+    {
+        "query_name": "www3.l.google.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "www3.l.google.com",
+        "query_type": "65",
+        "response_name": "l.google.com"
+    },
+    {
+        "query_name": "encrypted-tbn2.gstatic.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "encrypted-tbn2.gstatic.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "encrypted-tbn1.gstatic.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "encrypted-tbn1.gstatic.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "encrypted-tbn0.gstatic.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "encrypted-tbn0.gstatic.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "encrypted-tbn1.gstatic.com",
+        "query_type": "1",
+        "response_name": "encrypted-tbn1.gstatic.com"
+    },
+    {
+        "query_name": "encrypted-tbn2.gstatic.com",
+        "query_type": "1",
+        "response_name": "encrypted-tbn2.gstatic.com"
+    },
+    {
+        "query_name": "encrypted-tbn2.gstatic.com",
+        "query_type": "65",
+        "response_name": "gstatic.com"
+    },
+    {
+        "query_name": "encrypted-tbn0.gstatic.com",
+        "query_type": "1",
+        "response_name": "encrypted-tbn0.gstatic.com"
+    },
+    {
+        "query_name": "encrypted-tbn1.gstatic.com",
+        "query_type": "65",
+        "response_name": "gstatic.com"
+    },
+    {
+        "query_name": "encrypted-tbn0.gstatic.com",
+        "query_type": "65",
+        "response_name": "gstatic.com"
+    },
+    {
+        "query_name": "rr3---sn-25glenes.googlevideo.com",
+        "query_type": "1"
+    },
+    {
+        "query_name": "rr3---sn-25glenes.googlevideo.com",
+        "query_type": "65"
+    },
+    {
+        "query_name": "rr3---sn-25glenes.googlevideo.com",
+        "query_type": "1",
+        "response_name": "rr3---sn-25glenes.googlevideo.com"
+    },
+    {
+        "query_name": "rr3---sn-25glenes.googlevideo.com",
+        "query_type": "65",
+        "response_name": "rr3---sn-25glenes.googlevideo.com"
+    }
+]
