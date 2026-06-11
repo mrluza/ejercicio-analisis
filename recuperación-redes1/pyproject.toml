@@ -1,0 +1,9 @@
+[project]
+name = "recuperacion-redes1"
+version = "0.1.0"
+description = "Sniffer de red para la practica de Redes I (EUNEIZ)"
+requires-python = ">=3.8"
+dependencies = [
+    # Unica dependencia: captura de paquetes (usa tshark por debajo).
+    "pyshark",
+]

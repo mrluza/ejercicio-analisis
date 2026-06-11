@@ -1,0 +1,79 @@
+{
+    "conn": {
+        "protocolo": "Ethernet",
+        "capa": "Capa 2 — Enlace de datos",
+        "descripcion": "Analiza tramas Ethernet. Permite ver las direcciones MAC de los dispositivos que se comunican directamente en la red local. El OUI (Organizationally Unique Identifier) identifica al fabricante del adaptador de red.",
+        "campos": "MAC origen, MAC destino, OUI fabricante, tipo de trama",
+        "ejemplo": "Útil para descubrir qué dispositivos hay en la red y a qué fabricante pertenece cada tarjeta de red."
+    },
+    "pcap_live": {
+        "protocolo": "Genérico (todas las capas)",
+        "capa": "Capas 2–7",
+        "descripcion": "Captura todos los paquetes sin filtrado de protocolo. Muestra la pila de capas completa de cada paquete tal como llega.",
+        "campos": "Todas las capas disponibles en cada paquete",
+        "ejemplo": "Útil para exploración inicial: ver qué protocolos circulan por la red."
+    },
+    "icmp": {
+        "protocolo": "Internet Control Message Protocol",
+        "capa": "Capa 3 — Red",
+        "descripcion": "ICMP es el protocolo de mensajes de control de Internet. No transporta datos de usuario, sino señales de diagnóstico y error. El comando \"ping\" usa ICMP tipo 8 (Echo Request) y tipo 0 (Echo Reply). Traceroute usa ICMP tipo 11 (Time Exceeded).",
+        "campos": "type, code, checksum, ident, seq, data",
+        "ejemplo": "Ejecuta \"ping 8.8.8.8\" en otro terminal y verás los paquetes aparecer aquí."
+    },
+    "imap": {
+        "protocolo": "Internet Message Access Protocol",
+        "capa": "Capa 7 — Aplicación",
+        "descripcion": "IMAP es el protocolo para leer correo electrónico desde un servidor. Sin TLS/SSL, las credenciales (usuario y contraseña) viajan en texto claro por la red y son completamente visibles para cualquier sniffer. Este patrón demuestra ese riesgo.",
+        "campos": "comando, usuario, contraseña, tag, línea completa",
+        "ejemplo": "⚠️  Las credenciales capturadas aquí son visibles porque IMAP sin cifrado no protege los datos en tránsito."
+    },
+    "arp": {
+        "protocolo": "Address Resolution Protocol",
+        "capa": "Capa 2 — Enlace de datos",
+        "descripcion": "ARP se utiliza para resolver direcciones IP en direcciones MAC dentro de una red local. Cuando un dispositivo quiere comunicarse con otro en la misma LAN, envía una solicitud ARP preguntando qué MAC corresponde a una IP determinada.",
+        "campos": "IP origen, IP destino, MAC origen, MAC destino, opcode",
+        "ejemplo": "Al ejecutar \"ping\" a otro equipo de la red local, normalmente primero aparecerá una solicitud ARP para descubrir su dirección MAC."
+    },
+    "dns": {
+        "protocolo": "Domain Name System",
+        "capa": "Capa 7 — Aplicación",
+        "descripcion": "DNS traduce nombres de dominio en direcciones IP. Cada vez que visitas una web, el sistema realiza consultas DNS para averiguar la IP asociada al dominio solicitado.",
+        "campos": "query name, query type, response, transaction ID",
+        "ejemplo": "Al abrir un navegador y acceder a \"google.com\", verás consultas DNS buscando la dirección IP del dominio."
+    },
+    "tcp": {
+        "protocolo": "Transmission Control Protocol",
+        "capa": "Capa 4 — Transporte",
+        "descripcion": "TCP proporciona comunicación fiable orientada a conexión entre dispositivos. Usa el mecanismo SYN, SYN-ACK y ACK para establecer conexiones y garantiza el orden y entrega de los datos.",
+        "campos": "puerto origen, puerto destino, flags, seq, ack, window size",
+        "ejemplo": "Al acceder a una página web o conectarte a un servidor remoto, podrás observar el three-way handshake de TCP."
+    },
+    "http": {
+        "protocolo": "HyperText Transfer Protocol",
+        "capa": "Capa 7 — Aplicación",
+        "descripcion": "HTTP es el protocolo utilizado para transferir páginas web y recursos entre cliente y servidor. Sin cifrado HTTPS, el contenido de las peticiones y respuestas puede verse en texto claro.",
+        "campos": "método, host, URL, headers, user-agent, código de respuesta",
+        "ejemplo": "Al visitar una web sin HTTPS, es posible visualizar las peticiones GET y las respuestas directamente en la captura."
+    },
+    "dhcp": {
+        "protocolo": "Dynamic Host Configuration Protocol",
+        "capa": "Capa 7 — Aplicación",
+        "descripcion": "DHCP asigna automáticamente direcciones IP y otros parámetros de red a los dispositivos. El proceso típico sigue las fases Discover, Offer, Request y Acknowledgment.",
+        "campos": "IP ofrecida, MAC cliente, transaction ID, hostname, tipo de mensaje",
+        "ejemplo": "Cuando un dispositivo se conecta a la red Wi-Fi o Ethernet, normalmente inicia un intercambio DHCP para obtener configuración automática."
+    },
+    "tls": {
+        "protocolo": "Transport Layer Security",
+        "capa": "Capa 6 — Presentación",
+        "descripcion": "TLS cifra las comunicaciones entre cliente y servidor para proteger la confidencialidad e integridad de los datos. HTTPS utiliza HTTP sobre TLS.",
+        "campos": "version, cipher suite, server name (SNI), certificados, handshake type",
+        "ejemplo": "Al abrir una web HTTPS, podrás observar el TLS Handshake antes de que comiencen los datos cifrados."
+    },
+    "mdns": {
+        "protocolo": "Multicast DNS",
+        "capa": "Capa 7 — Aplicación",
+        "descripcion": "mDNS permite resolver nombres de dispositivos dentro de redes locales sin necesidad de un servidor DNS central. Es utilizado por tecnologías como Bonjour y descubrimiento automático de servicios.",
+        "campos": "hostname, service type, multicast address, query, response",
+        "ejemplo": "Dispositivos como impresoras, Chromecast o equipos Apple suelen anunciarse automáticamente mediante tráfico mDNS."
+    }
+}
